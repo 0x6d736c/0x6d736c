@@ -1,8 +1,17 @@
-### Hi there 👋
+### Hola, Mundo.
 
-[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x6d736c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I'm an aspiring software engineer from New York and currently an MCIT candidate @UPenn.
 
-[![Most-Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x6d736c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+🤝 Let's collaborate! I'm most comfortable with Java and Python, but I'm interested in Web and Mobile development, as well.
+📚 Currently learning: data structures and algorithms in Java, React + full-stack JavaScript/HTML/CSS.
+
+Contact:
+
+[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/michael-s-liebegott/) 
+
+[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x6d736c&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most-Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x6d736c&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **0x6d736c/0x6d736c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
