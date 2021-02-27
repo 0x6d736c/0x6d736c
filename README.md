@@ -2,9 +2,9 @@
 
 I'm an aspiring software engineer from New York and currently an MCIT candidate @UPenn.
 
-🤝 * Let's collaborate! I'm most comfortable with Java and Python, but I'm interested in Web and Mobile development, as well.
+🤝 -- Let's collaborate! I'm most comfortable with Java and Python, but I'm interested in Web and Mobile development, as well.
 
-📚 * Currently learning: data structures and algorithms in Java, React + full-stack JavaScript/HTML/CSS.
+📚 -- Currently learning: data structures and algorithms in Java, React + full-stack JavaScript/HTML/CSS.
 
 Contact:
 
