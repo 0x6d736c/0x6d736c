@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x6d736c)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **0x6d736c/0x6d736c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
