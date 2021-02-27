@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x6d736c?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x6d736c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most-Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x6d736c?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most-Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x6d736c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **0x6d736c/0x6d736c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
